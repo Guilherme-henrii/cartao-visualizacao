@@ -1,0 +1,42 @@
+@media(max-width: 670px){
+    
+    .cartao{
+        width: 300px;
+        height: 450px;
+        padding: 5px;
+    }
+
+
+.img-cartao{
+   margin-left: 9px;
+   margin-top: 10px;
+    width: 270px;
+}
+
+.obs{
+    margin-left: 10px;
+    }
+
+    .data{
+        padding: 10px;
+        margin-left: 5px;
+    }
+
+    .titulo{
+        margin-left: 10px;
+        padding: 5px;
+        margin-top: 0px;
+       font-size: 20px;
+    }
+
+    .descricao{
+        margin-left: 10px;
+        font-size: 13px;
+        }
+
+        .img-perfil{
+            width: 40px;
+            height: 40px;
+            margin-left: 10px;
+        }
+}
