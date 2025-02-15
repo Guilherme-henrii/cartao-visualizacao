@@ -3,6 +3,7 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
+    overflow-x: hidden;
 }
 
 .cartao {
@@ -43,7 +44,7 @@ font-weight: bold;
 }
 
 .titulo{
-    width: 100vw;
+    
     padding: 5px;
     margin-top: 7px;
     font-weight: bold;
